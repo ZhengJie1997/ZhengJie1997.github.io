@@ -221,7 +221,7 @@ textarea {
   position: relative;
   width: 18.75rem;
   height: 18.75rem;
-  margin: 150px auto;
+  margin: 25vh auto;
   text-align: center;
   animation: rotateMove 8s infinite;
   animation-play-state: running;
@@ -244,8 +244,8 @@ textarea {
 .box {
   position: absolute;
   text-align: center;
-  width: 18.73rem;
-  height: 18.73rem;
+  width: 18rem;
+  height: 18rem;
 }
 
 .box_right {
